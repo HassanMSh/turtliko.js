@@ -6,6 +6,10 @@ A little pixel turtle that swims after your mouse and blows bubbles.
 
 This is a turtle take on [oneko.js](https://github.com/adryd325/oneko.js) by adryd.
 
+## Thanks
+
+Big thanks to [adryd](https://github.com/adryd325) and [oneko.js](https://github.com/adryd325/oneko.js) for the idea and the original code. turtliko.js would not exist without it.
+
 ## Usage
 
 Download `turtliko.js` and `turtliko.png` and put them next to each other on your site.
