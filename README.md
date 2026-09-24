@@ -4,6 +4,8 @@ A little pixel turtle that swims after your mouse and blows bubbles.
 
 ![turtliko](./turtliko.png)
 
+**Live demo:** https://hassanmsh.github.io/turtliko.js/
+
 This is a turtle take on [oneko.js](https://github.com/adryd325/oneko.js) by adryd.
 
 ## Thanks
@@ -21,6 +23,12 @@ Then add one line to your page:
 ```
 
 That's it.
+
+Or load it straight from GitHub Pages without downloading anything. Set `data-turtle` too, because the default image path is relative to your page:
+
+```html
+<script src="https://hassanmsh.github.io/turtliko.js/turtliko.js" data-turtle="https://hassanmsh.github.io/turtliko.js/turtliko.png"></script>
+```
 
 ## Options
 
@@ -51,7 +59,9 @@ Each row holds two directions with four swim frames each: `N | NE`, `E | SE`, `S
 
 ## Demo
 
-Open `index.html` in a browser.
+Try it live at https://hassanmsh.github.io/turtliko.js/
+
+The demo is `index.html`, served by GitHub Pages from the `main` branch. You can also open it locally in a browser.
 
 ## License
 
